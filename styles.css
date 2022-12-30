@@ -601,6 +601,11 @@ margin-right: 30px;
     transition: color 250ms var(--time-function), background-color 250ms var(--time-function), box-shadow 250ms var(--time-function);
 }
 
+.soc-items {
+    fill: currentColor;
+    transition: color 250ms var(--time-function), background-color 250ms var(--time-function), box-shadow 250ms var(--time-function);
+}
+
  .footer-soc-items{
     margin-top: 20px;
  }
